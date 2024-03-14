@@ -1,20 +1,16 @@
 let questions = [
-    { question: "What is the capital of France?", answer: "Test", correct: false },
-    { question: "What is the largest planet in our solar system?", answer: "1", correct: false },
-    { question: "Who wrote 'Romeo and Juliet'?", answer: "1", correct: false },
-    { question: "What is the chemical symbol for water?", answer: "1", correct: false },
-    { question: "What year did the Titanic sink?", answer: "1", correct: false },
-    { question: "What is the square root of 64?", answer: "1", correct: false },
-    { question: "Who painted the Mona Lisa?", answer: "1", correct: false },
-    { question: "What is the tallest mountain in the world?", answer: "1", correct: false },
-    { question: "What is the capital of Japan?", answer: "1", correct: false },
-    { question: "Who invented the lightbulb?", answer: "1", correct: false },
-    { question: "What is the largest ocean?", answer: "1", correct: false },
-    { question: "What is the chemical symbol for gold?", answer: "1", correct: false },
-    { question: "What is the freezing point of water in Fahrenheit?", answer: "1", correct: false },
-    { question: "Who is known as the 'Father of Computers'?", answer: "1" },
-    { question: "What is the chemical symbol for iron?", answer: "1", correct: false },
-    { question: "What is the speed of light in a vacuum?", answer: "1", correct: false }
+    { question: "NEXT HINT: As above so below", answer: "simon", correct: false },
+    { question: "NEXT HINT: Got ?", answer: "emmaus", correct: false },
+    { question: "NEXT HINT: Package delivered", answer: "fish", correct: false },
+    { question: "NEXT HINT: This youngest of 8 piggys went to market", answer: "creature", correct: false },
+    { question: "NEXT HINT: Welcome to the happiest place on Earth", answer: "thirty", correct: false },
+    { question: "NEXT HINT: Fuji, Granny Smith, honeycrisp, Ted Lasso, Silo, Severance", answer: "hour", correct: false },
+    { question: "NEXT HINT: Where rubber meets the road", answer: "good", correct: false },
+    { question: "NEXT HINT: Why so serious?", answer: "palm", correct: false },
+    { question: "NEXT HINT: Cleanliness is next to Godliness", answer: "hosanna", correct: false },
+    { question: "NEXT HINT: You better be'leaf' it", answer: "sacrament", correct: false },
+    { question: "NEXT HINT: FF", answer: "fulfil", correct: false },
+    { question: "NEXT HINT: The greatest addition to Mom's house", answer: "skull", correct: false }
 ];
 
 function handleClick(number) {
