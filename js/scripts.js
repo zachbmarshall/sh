@@ -1,16 +1,16 @@
 let questions = [
-    { question: "NEXT HINT: As above so below", answer: "simon", correct: false },
-    { question: "NEXT HINT: Got ?", answer: "emmaus", correct: false },
-    { question: "NEXT HINT: Package delivered", answer: "fish", correct: false },
-    { question: "NEXT HINT: This youngest of 8 piggys went to market", answer: "creature", correct: false },
-    { question: "NEXT HINT: Welcome to the happiest place on Earth", answer: "thirty", correct: false },
-    { question: "NEXT HINT: Fuji, Granny Smith, honeycrisp, Ted Lasso, Silo, Severance", answer: "hour", correct: false },
-    { question: "NEXT HINT: Where rubber meets the road", answer: "good", correct: false },
-    { question: "NEXT HINT: Why so serious?", answer: "palm", correct: false },
-    { question: "NEXT HINT: Cleanliness is next to Godliness", answer: "hosanna", correct: false },
-    { question: "NEXT HINT: You better be'leaf' it", answer: "sacrament", correct: false },
-    { question: "NEXT HINT: FF", answer: "fulfil", correct: false },
-    { question: "NEXT HINT: The greatest addition to Mom's house", answer: "skull", correct: false }
+    { question: "NEXT LOCATION HINT: I use not Conduction, nor Convection, but Radiation", answer: "simon", correct: false },
+    { question: "NEXT LOCATION HINT: Got ?", answer: "emmaus", correct: false },
+    { question: "NEXT LOCATION HINT: Package delivered", answer: "fish", correct: false },
+    { question: "NEXT LOCATION HINT: This youngest of 8 piggys went to market", answer: "creature", correct: false },
+    { question: "NEXT LOCATION HINT: Welcome to the happiest place on Earth", answer: "thirty", correct: false },
+    { question: "NEXT LOCATION HINT: Fuji, Granny Smith, honeycrisp, Ted Lasso, Silo, Severance", answer: "hour", correct: false },
+    { question: "NEXT LOCATION HINT: Where rubber meets the road", answer: "good", correct: false },
+    { question: "NEXT LOCATION HINT: Why so serious?", answer: "palm", correct: false },
+    { question: "NEXT LOCATION HINT: Cleanliness is next to Godliness", answer: "hosanna", correct: false },
+    { question: "NEXT LOCATION HINT: You better beleaf it", answer: "sacrament", correct: false },
+    { question: "NEXT LOCATION HINT: FF", answer: "fulfil", correct: false },
+    { question: "NEXT LOCATION HINT: The greatest addition to Mom's house", answer: "skull", correct: false }
 ];
 
 function handleClick(number) {
